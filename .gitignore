@@ -8,7 +8,7 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-data/*
+datasets_full.csv.zip
 
 # IPython
 profile_default/
